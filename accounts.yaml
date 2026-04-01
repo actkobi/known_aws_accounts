@@ -338,8 +338,8 @@
   source: ['https://docs.epsagon.com/docs/faq']
   accounts: ['066549572091']
 - name: 'Turbot'
-  source: ['https://turbot.com/v5/docs/integrations/aws/import-aws-account', 'https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html']
-  accounts: ['287590803701', '255798382450', '453761072151']
+  source: ['https://turbot.com/v5/docs/integrations/aws/import-aws-account', 'https://docs.aws.amazon.com/securityhub/latest/userguide/securityhub-partner-providers.html', 'https://github.com/turbot/guardrails-samples/blob/main/queries/aws/aws_account_import.graphql']
+  accounts: ['287590803701', '255798382450', '453761072151', '525041748188']
 - name: 'Qualys AWS EC2 Connector'
   source: ['https://qualys-secure.force.com/discussions/s/question/0D52L00004TnxTqSAJ/aws-ec2-connector-creation-automation']
   accounts: ['805950163170']
