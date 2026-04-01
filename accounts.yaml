@@ -753,5 +753,5 @@
   accounts: ['309956199498','219670896067']
 - name: 'Praetorian Chariot'
   type: 'aws'
-  source: 'https://docs.praetorian.com/articles/37956239205531-amazon-web-services-manual-deployment'
+  source: ['https://docs.praetorian.com/articles/37956239205531-amazon-web-services-manual-deployment']
   accounts: ['992382785633']
